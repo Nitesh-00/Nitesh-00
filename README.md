@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nitesh
-- 👀 I’m interested in Devops
-- 🌱 I’m currently learning Linux 
+- 👀 I’m interested in Full Stack development
+- 🌱 I’m currently learning MERN Stack 
 - 💞️ I’m looking to contribute on Opensource projects 
 - 📫 How to reach me ...
 
